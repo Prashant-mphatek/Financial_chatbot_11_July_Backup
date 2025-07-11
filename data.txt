@@ -1,0 +1,328 @@
+omnispay - The Simplest Way to Pay & Get Paid
+
+Omnispay helps small businesses manage their cash flow more effectively by simplifying how they pay and get paid. Simplifies payments for SMEs and helps them improve their cashflow. Easy to use platform built for small and medium businesses.
+
+Omnispay Payment Services L.L.C. is a company registered in Dubai (Dubai Economy & Tourism).
+Address: Kia Flag Ship, Al Goze First Office no- M22-M23 Dubai, United Arab Emirates
+
+---
+
+**Simplify Paying Your Suppliers**
+
+**Features**:
+
+1. **Pay Your Suppliers with the Credit Card**:
+   - Manage suppliers
+   - Invoice payments
+   - Next-day settlements (weekdays)
+
+2. **Collect Payments from Your Customers**:
+   - Payment Links
+   - Faster settlements
+   - Accept international cards
+
+3. **Manage Your Cash Flow Better**:
+   - Faster collection
+   - Credit-free period
+   - Comprehensive dashboard
+
+---
+
+**Why Choose Omnispay?**
+
+- 1000+ businesses empowered.
+- **Credit period**: Use credit cards for business expenses, get 25-55 days credit.
+- **Payment links**: Collect faster from your customers via payment links.
+- **Reporting**: View all your payments consolidated in one place.
+- **Secure payments**: Safe and reliable transaction processing for payments.
+- **Cash flow**: Optimize and improve your cash flow.
+- **Customer Support**: Real-time support on customer queries and needs.
+
+---
+
+**How to Pay Your Receivers?**
+Pay your receivers, landlords, etc. with the credit card that you have.
+
+**STEPS to Pay Your Receivers**:
+1. **Add a Receiver**: Fill in receiver's IBAN and contact details.
+2. **Upload an Invoice**: Upload the invoice.
+3. **Make a Payment**: Use your credit card to make a payment. Receiver will be settled via bank transfer.
+
+---
+
+**How to Collect Payments from Your Customers?**
+Enabling SMEs to collect from their customers digitally via payment links.
+**Same-day payouts**.
+
+**STEPS to Collect Payments from Your Customers**:
+1. **Add a Customer**: Simply add a customer by filling up basic information.
+2. **Generate the Payment Link**: Just add the payment amount & the currency and generate the payment link.
+3. **Send the Payment Link to Your Customer**: Copy the payment link and send it to your customer.
+
+---
+
+**Plans**:  
+Simple and affordable pricing. Super Savings! We have special prices.  
+Our pricing is fair, transparent, and easy to understand. You pay only on successful transactions.
+
+**Two Types of Plans Available**:
+1. **Domestic**:
+   - Pay & Get Paid: 2.49% + AED 1 per transaction. No hidden charges.
+   
+2. **International**:
+   - Pay & Get Paid: 2.85% + AED 1 per transaction. No hidden charges.
+
+---
+
+**Discover Expert-Curated Tips and Tricks Tailored Just for You**  
+Guides:
+1. Navigating the Digital Payment Landscape: Trends and Innovations
+2. 7 Best Payment Practices Every Business Should Adopt
+3. How to Maximize Efficiency with Integrated Payment Solutions?
+4. Leveraging Social Media for Business Growth: Success Stories from Small Businesses
+
+---
+
+**Q&A**:
+
+1. **Can I collect payment from customers who use GCC or International Cards?**  
+   - Yes, you can collect payments from customers who use GCC and International Cards.
+
+2. **Can my clients pay via the payment link without signing up on omnispay?**  
+   - Yes, your client can make the payment via the payment link without signing up on Omnispay.
+
+3. **Are there any additional charges for using the payment link service?**  
+   - No, there are no additional charges apart from the transaction fee.
+
+4. **How long is the payment link valid?**  
+   - The Payment link is valid for 30 days from the link generation date.
+
+---
+
+**What Fees Are Associated with Using Omnispay?**  
+**For Pay Transaction**:
+- For UAE cards, Omnispay charges a flat 2.75% + AED 1 flat fee.
+  
+**For Get Paid Transaction**:
+- For UAE cards, Omnispay charges a flat 2.75% + AED 1 flat fee.
+- For GCC and International Cards, Omnispay charges a flat 3.1% + AED 1 flat fee.
+
+We are currently running a **Super Savings Campaign** for all our customers and the pricing is as follows:
+- For UAE cards, the charges are flat 2.49% + AED 1 flat fee.
+- For GCC and international cards, the charges are flat 2.85% + AED 1 flat fee.
+
+---
+
+**How Can I Contact Omnispay Customer Support?**  
+Please reach out to us at: support@omnispay.com for any queries/assistance you might need. You will be able to find more details at our Contact Us page.
+
+---
+
+**What Services Does Omnispay Offer?**  
+Omnispay is a payments platform for SME businesses.  
+SME businesses get the easiest way to pay their bills (even when the receiver doesn't accept cards) and get paid by their customers via payment links. 
+
+**Is Omnispay Available Outside of the UAE?**  
+We are based in Dubai, United Arab Emirates. Currently, Omnispay is available for domestic and international transactions within the UAE.
+
+**Can I Use My Credit Card to Pay Suppliers/Vendors/Landlords Who Don't Accept Cards?**  
+Yes, on Omnispay, you can use your existing credit card to pay suppliers/vendors/landlords who don’t accept cards.
+
+**Is Omnispay Available for Individuals and Businesses?**  
+At the moment, Omnispay is available for businesses only.
+
+**Is Omnispay Trustworthy?**  
+Omnispay is a licensed payment service provider authorized by the D.E.T. Payments are processed through CCAvenue, a secure platform that meets the latest industry standards, including PCI-DSS 3.2.1, ISO/IEC 27001:2013, Mastercard Secure, and is VISA certified.
+
+---
+
+**How Can I Track My Payment History on Omnispay?**  
+All your payments are available on the dashboard (under the Transaction History) provided to you on the Omnispay platform.
+
+**Are There Any Compliance or Regulatory Requirements for Using Omnispay?**  
+As a platform user, there are no compliance and regulatory requirements for using Omnispay. All you need is a valid trade license and government-issued identity card.
+
+---
+
+**Can I Use Omnispay for International Payments?**  
+Yes, you can now use Omnispay for international transactions.
+
+---
+
+**How Can I Integrate Omnispay with My Existing Accounting or Financial Systems?**  
+If your company uses Zoho, Xero, or Quickbooks as your accounting or financial systems, integrations with them will be coming soon!! Stay tuned.
+
+**Is My Personal and Financial Information Stored Securely by Omnispay?**  
+Yes, all information stored on Omnispay is securely stored on cloud systems and encrypted end-to-end.
+
+---
+
+**What Are the Benefits of Using Omnispay for Payments?**  
+When you use a credit card to make a payment, your receiver still gets paid on time, while you defer the actual outflow of your cash until your card bill is due. This lets you gain up to between 25-55 days credit period depending on the card issuing bank.
+
+---
+
+**How Does It Work?**  
+The deferment period is dependent on 2 factors:
+1. The billing cycle of your credit card.
+2. The grace period given by your credit card/bank issuer to remit the payment.
+
+**Are There Any Transaction Limits with Omnispay?**  
+With Omnispay, you can pay invoices up to AED 50,000 in a single transaction.
+
+---
+
+**What is the Super Savings Campaign?**  
+Omnispay is running a special campaign for the months of March and April where all the customers will get a special offer price on their transaction fees!
+
+---
+
+**What Types of Cards Are Accepted by Omnispay?**  
+Omnispay accepts all the popular credit and debit cards issued within UAE and internationally.
+
+---
+
+**Am I Able to Use My Personal Credit Card Instead of a Corporate Credit Card for Payments on My Business Account?**  
+Absolutely, both personal and corporate credit cards can be used on your business payments.
+
+---
+
+**How Do I Schedule a Payment?**  
+Step 1: After you've logged into your Omnispay account, click on "+ Create Payment" situated on the top right corner of the site.  
+Step 2: Select your payment type.  
+Step 3: Search for your receiver. If you don’t see your receiver listed, you can "Add new receiver". You’ll be prompted to fill in a few details of your receiver.  
+Step 4: Enter your payment details.
+
+---
+
+**What Should I Do if the Receiver That I Would Like to Pay to Is Not on the List?**  
+If you don’t see your receiver already listed, you can quickly and easily add the receiver details from the invoice shared and create your payment. Receiver details are saved for future transactions.
+
+---
+
+**How Will Payments Made by Omnispay Appear on the Receiver's Bank Statement?**  
+The Omnispay payment will reflect on the receiver’s statement with the unique payment reference entered when the payment is set up.
+
+---
+
+**How Does Using My Credit Card Free Up My Cash Flow for 25 to 55 Days?**  
+When you use a credit card to make a payment, your receiver still gets paid on time, while you defer the actual outflow of your cash until your card bill is due. This lets you gain up to between 25-55 days credit period depending on the card issuing bank. 
+
+---
+
+**Does Omnispay Allow Installment Payments?**  
+At present, Omnispay does not offer installment plans either when making or collecting a payment. For partial supplier payments, please inform your supplier.
+
+---
+
+**What Information Will I Need to Upload to Send a Payment?**  
+If your receiver is in our system and accepts Omnispay payments electronically, we will already have their funding information on file. All you need is the payment amount, a due date, and any reference you’d like to use to identify you as the payer.
+
+---
+
+**When Should I Schedule My Payments?**  
+Please ensure to schedule payments at least 7 business days prior to the invoice due date. This is done to give the payment gateway enough time to process and settle the card transaction and prevent any potential reconciliation issues.
+
+---
+
+**When Will My Card Be Charged and My Payment Be Delivered to My Receiver?**  
+Payments can be delivered to your receiver in 7 days.
+
+---
+
+**Setting Up a Future Payment (Standard Payment)**  
+For future payments, the earliest Payment Due date you can select will be at least 7 business days or later. Your Payment Charge date will be 7 business days before the Payment Due date. These details will be shown to you when you are setting up the payment, and before you confirm your payment.
+
+---
+
+**How Do I Know if My Payment Has Reached My Receiver?**  
+Throughout the payment process you will be kept informed of the status via email.  
+Once it’s successfully delivered, your payment status will be changed to 'Completed' and you will receive a Payment Complete email along with the payment reference you have input. You can also log in and view the payment status at any time on your Omnispay dashboard.
+
+---
+
+**What Can I Do If My Payment Fails?**  
+A payment could have failed due to:
+- Insufficient funds on your card - Ensure to check your debit or credit card limit, or use another card.
+- The card is declined - Contact your card issuer or bank for more details or use another card.
+
+For more assistance, contact Omnispay at support@omnispay.com.
+
+---
+
+**What Is Omnispay "Get Paid"?**
+
+Here’s how it works:
+- Sign up for a free Omnispay account and set it up to accept card payments by your customers.
+- Share your customised payment link with your customers on your invoices or website, where they can pay you via their preferred option.
+- Each payment is automatically deposited into your bank account within 1 business day for card payments.
+- Receive real-time payment updates via email, and monitor all past and upcoming payments on your dashboard.
+- Coming soon: Omnispay "Get Paid" will soon also integrate with your accounting software, automatically reconciling all payments paid on your accounting software-issued invoices.
+
+---
+
+**Is My Company Eligible to Accept Payments via Omnispay?**
+
+Omnispay enables credit card-based payment acceptance from your customers.
+
+**Payment Methods You Can Accept**:
+- Receive domestic credit and debit card payments for all customers now.
+- Receive a payout (after Omnispay fee deduction) in your bank account within 7 business days.
+
+**Eligibility Requirements**:
+1. Your company is registered in the UAE. Companies registered under a sole proprietorship must be at least 1 year old.
+2. Your company is not operating under restricted industries (e.g., Investment & credit services, Virtual currencies, Gambling services).
+3. Your company owns a corporate bank account to receive payment payouts.
+4. You have successfully completed the onboarding formalities necessary to create payment links and receive payouts.
+
+---
+
+**Omnispay "Get Paid" - Restricted Businesses to Accept Credit Card Payments**
+
+Omnispay offers its services to a variety of customers and industries. However, the following categories are restricted from using Omnispay Collect to accept credit card payments ("Restricted Businesses"):
+- Investment & credit services
+- Money and legal services
+- Virtual currencies or wallet providers
+- Gambling services
+
+Download Links
+application form - https://chatgpt.com
+revaluation form - https://www.youtube.com/watch?v=SFqeLuYJOGo
+update form - https://chat.deepseek.com/
+
+Selected **Restricted Businesses** may be granted exceptions on a case-by-case basis.
+
+---
+
+**When Will I Receive Payout in My Company's Bank Account?**
+
+The payment made by your customers will be credited to your bank account registered on Omnispay in 1 business day.
+
+---
+
+**Can I Collect Payment from Customers Who Use GCC or International Cards?**
+
+Yes, you can collect payments from customers who use GCC and International Cards.
+
+---
+
+**Can My Clients Pay via the Payment Link Without Signing Up on Omnispay?**
+
+Yes, your client can make the payment via the payment link without signing up on Omnispay.
+
+---
+
+**Are There Any Additional Charges for Using the Payment Link Service?**
+
+No, there are no additional charges apart from the transaction fee.
+
+---
+
+**How Long Is the Payment Link Valid?**
+
+The Payment link is valid for 30 days from the link generation date.
+
+---
+
+**End of Document**
+

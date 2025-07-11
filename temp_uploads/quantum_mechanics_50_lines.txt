@@ -1,0 +1,50 @@
+Quantum mechanics is a fundamental theory in physics that describes nature at the smallest scales.
+It deals with physical phenomena at atomic and subatomic levels.
+The theory was developed in the early 20th century.
+Max Planck is considered the father of quantum theory.
+He introduced the idea of energy quanta in 1900.
+Albert Einstein explained the photoelectric effect using quanta in 1905.
+Niels Bohr developed the Bohr model of the atom in 1913.
+Bohr's model introduced quantized energy levels for electrons.
+Quantum mechanics replaced classical mechanics at microscopic scales.
+It introduces the concept of wave-particle duality.
+Electrons exhibit both particle-like and wave-like behavior.
+Louis de Broglie proposed matter waves in 1924.
+The Schrödinger equation describes how quantum states evolve over time.
+Erwin Schrödinger formulated his wave equation in 1926.
+Werner Heisenberg developed matrix mechanics.
+Heisenberg also introduced the uncertainty principle.
+The uncertainty principle limits how precisely we can know position and momentum.
+Quantum superposition allows particles to be in multiple states at once.
+Measurement collapses a superposition to a definite state.
+The Copenhagen interpretation emphasizes the role of measurement.
+Quantum entanglement links particles such that one's state affects the other.
+Entanglement was famously described as 'spooky action at a distance' by Einstein.
+Bell's Theorem supports the non-local nature of quantum mechanics.
+Quantum tunneling allows particles to pass through barriers.
+It underlies the operation of devices like tunnel diodes.
+The quantum harmonic oscillator is a fundamental model.
+Quantum field theory combines quantum mechanics with special relativity.
+The Standard Model is a quantum field theory describing particle physics.
+Fermions follow the Pauli exclusion principle.
+Bosons can occupy the same quantum state.
+Photons are quantum particles of light.
+Quantum electrodynamics describes the interaction of light and matter.
+Quantum chromodynamics explains the strong force binding quarks.
+The weak nuclear force is responsible for radioactive decay.
+Quantum computing uses qubits instead of classical bits.
+Qubits exploit superposition and entanglement for computation.
+Quantum algorithms can outperform classical ones for certain problems.
+Shor’s algorithm can factor large numbers efficiently.
+Quantum cryptography ensures secure communication using quantum principles.
+Quantum teleportation transfers quantum states between particles.
+Decoherence causes quantum systems to lose quantum behavior.
+Observables in quantum mechanics are represented by operators.
+ Eigenvalues of operators correspond to measurable quantities.
+The Born rule connects wave functions to probabilities.
+The many-worlds interpretation suggests all outcomes occur in parallel universes.
+Quantum mechanics underlies modern technologies like lasers and semiconductors.
+ It has implications in philosophy regarding determinism and reality.
+ Experiments constantly validate quantum mechanics’ predictions.
+ Despite its strangeness, quantum mechanics is immensely successful.
+It remains a vibrant area of research with many open questions.

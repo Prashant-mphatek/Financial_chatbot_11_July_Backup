@@ -1,0 +1,336 @@
+BANKING KNOWLEDGE BASE - SAMPLE DATA FOR RAG CHATBOT
+
+=== ACCOUNT TYPES AND SERVICES ===
+
+SAVINGS ACCOUNT INFORMATION
+Premier Savings Account offers competitive interest rates with tiered benefits. Minimum balance requirement is $2,500 to avoid monthly maintenance fees. Account holders earn 2.15% APY on balances over $10,000 and 1.85% APY on balances between $2,500-$9,999. Features include free online banking, mobile deposits, and unlimited ATM transactions at network locations.
+
+Essential Savings Account designed for everyday savers with low minimum balance requirement of $100. Earns 1.25% APY on all balances. Monthly maintenance fee of $5 waived with minimum daily balance of $300 or one automatic transfer from checking account. Includes free debit card and access to online banking platform.
+
+High-Yield Savings Account provides maximum earning potential with 3.25% APY on balances up to $100,000. Requires minimum opening deposit of $1,000 and minimum daily balance of $1,000 to earn stated APY. Limited to six withdrawals per month as per federal regulations. Account includes free wire transfers and priority customer service.
+
+CHECKING ACCOUNT INFORMATION
+Premium Checking Account offers unlimited check writing, free ATM access worldwide, and no monthly maintenance fees with $5,000 minimum balance. Overdraft protection available with linked savings account. Includes complimentary checks, cashier's checks, and money orders. Mobile banking with remote deposit capture included.
+
+Student Checking Account designed for students aged 16-24 with valid student ID. No monthly maintenance fees, no minimum balance requirement, and free debit card. Includes budgeting tools and financial literacy resources. Account automatically converts to Essential Checking after graduation or age 25.
+
+Business Checking Account tailored for small businesses with monthly transaction limits. Earns 0.75% APY on balances over $25,000. Monthly maintenance fee of $15 waived with average daily balance of $10,000. Includes business debit card, online banking with payroll services, and merchant services integration.
+
+CREDIT CARD PRODUCTS
+Platinum Rewards Credit Card offers 2% cash back on all purchases with no annual fee. Introductory APR of 0% for 15 months on purchases and balance transfers. Standard APR ranges from 16.99% to 24.99% based on creditworthiness. Credit limit up to $50,000 for qualified applicants. Includes purchase protection and extended warranty coverage.
+
+Travel Rewards Credit Card earns 3 points per dollar on travel purchases and 2 points per dollar on dining. Annual fee of $95 waived first year. Includes travel insurance, airport lounge access, and no foreign transaction fees. Redemption options include airline miles, hotel points, and cash back at 1 cent per point value.
+
+Secured Credit Card helps build credit history with required security deposit equal to credit limit. Minimum deposit of $300, maximum of $5,000. Reports to all three credit bureaus monthly. Graduates to unsecured card after 12 months of on-time payments. Annual fee of $35 with competitive APR of 19.99%.
+
+LOAN PRODUCTS AND SERVICES
+Personal Loan options available from $5,000 to $100,000 with fixed interest rates starting at 6.99% APR for qualified borrowers. Loan terms from 24 to 84 months with no prepayment penalties. Application process includes credit check and income verification. Funds available within 24 hours of approval for existing customers.
+
+Auto Loan financing available for new and used vehicles with rates starting at 4.25% APR. Loan terms up to 84 months for new cars and 72 months for used cars. Pre-approval available with soft credit check. Includes GAP insurance options and extended warranty programs through dealer partnerships.
+
+Home Mortgage products include conventional, FHA, VA, and USDA loans. Fixed and adjustable rate options available with competitive rates. Down payment assistance programs available for first-time homebuyers. Mortgage specialists available for consultation and application assistance. Online application portal with document upload capability.
+
+Home Equity Line of Credit (HELOC) provides access to funds based on home equity with variable interest rates starting at prime plus 0.5%. Credit lines from $25,000 to $500,000 with 10-year draw period and 20-year repayment period. Interest-only payments during draw period. No annual fees or closing costs for lines over $50,000.
+
+=== BANKING POLICIES AND PROCEDURES ===
+
+ACCOUNT OPENING PROCEDURES
+New account opening requires two forms of identification including government-issued photo ID and social security card or passport. Minimum age requirement is 18 years for individual accounts, 16 years for joint accounts with parent or guardian. Initial deposit requirements vary by account type and must be made within 30 days of account opening.
+
+Customer Information Program (CIP) compliance requires verification of customer identity through documentary and non-documentary methods. Documentation must be unexpired and issued by reliable source. Non-documentary verification includes credit reports, public database searches, and customer contact verification. Records maintained for five years after account closure.
+
+Joint account holders have equal access to account funds and services unless otherwise specified in account agreement. Both parties responsible for account fees, overdrafts, and maintaining minimum balances. Account closure requires signatures from all account holders unless court order or death certificate provided.
+
+TRANSACTION LIMITS AND RESTRICTIONS
+ATM withdrawal limits set at $500 per day for standard accounts and $1,000 per day for premium accounts. Limits may be temporarily increased for travel or emergency situations with proper identification and verification. International ATM withdrawals subject to foreign transaction fees and currency conversion charges.
+
+Wire transfer limits vary by account type and customer verification level. Online wire transfers limited to $10,000 per day for domestic transfers and $5,000 for international transfers. In-person wire transfers available up to $50,000 per day with proper identification and purpose verification.
+
+ACH transfer limits set at $25,000 per day for outgoing transfers and unlimited for incoming transfers. Business accounts may request higher limits based on business needs and account history. All transfers subject to available funds and fraud monitoring systems.
+
+OVERDRAFT PROTECTION POLICIES
+Overdraft protection service automatically transfers funds from linked savings account to cover overdrafts in checking account. Transfer fee of $10 per occurrence with maximum of four transfers per day. Linked account must maintain minimum balance to cover transfers.
+
+Overdraft privilege allows certain transactions to be paid even when account lacks sufficient funds. Overdraft fee of $35 per item with maximum of six fees per day. Continuous overdraft fee of $35 charged after seven consecutive days in overdraft status. Service can be opted out at any time.
+
+Non-sufficient funds (NSF) fee of $35 charged when items are returned unpaid due to insufficient funds. Depositor fee of $10 charged to accounts receiving returned items. Merchants may impose additional fees for returned payments. Repeat offenders may face account closure or restrictions.
+
+FRAUD PREVENTION AND SECURITY
+Multi-factor authentication required for online banking access using combination of password, security questions, and SMS verification codes. Login attempts limited to five failures before account lockout. Password requirements include minimum 12 characters with uppercase, lowercase, numbers, and special characters.
+
+Real-time transaction monitoring systems flag unusual spending patterns, out-of-area transactions, and high-risk merchant categories. Automated alerts sent via email, SMS, or mobile app notifications. Card blocking capabilities available 24/7 through customer service or mobile app.
+
+Zero liability policy protects customers from fraudulent transactions when reported promptly. Liability limited to $50 for credit cards and $500 for debit cards if reported within two business days. Temporary credit issued during investigation period. Final resolution typically within 10 business days.
+
+DISPUTE RESOLUTION PROCEDURES
+Transaction disputes must be reported within 60 days of statement date for credit cards and within 60 days for debit cards. Dispute forms available online, by phone, or in branch locations. Temporary credit issued for disputed amounts over $50 while investigation pending.
+
+Billing error resolution follows Regulation Z procedures with written notice required within 60 days. Bank has 30 days to acknowledge dispute and 90 days to resolve. Interest charges waived on disputed amounts during investigation period. Final determination provided in writing with explanation.
+
+Arbitration clause included in account agreements for disputes over $25,000. Customers may opt out of arbitration within 30 days of account opening. Small claims court remains available for eligible disputes. Mediation services available as alternative dispute resolution method.
+
+=== DIGITAL BANKING SERVICES ===
+
+ONLINE BANKING FEATURES
+Comprehensive online banking platform accessible 24/7 with account balances, transaction history, and statement viewing. Bill pay service supports one-time and recurring payments with delivery options including electronic and check payments. Transfer capabilities between internal accounts and external bank accounts.
+
+Mobile banking application available for iOS and Android devices with biometric login options including fingerprint and facial recognition. Mobile deposit capture allows check deposits up to $10,000 per day with immediate availability for first $200. Location-based services help find nearest ATMs and branch locations.
+
+Personal financial management tools include spending categorization, budget tracking, and goal setting features. Credit score monitoring provided free for all customers with monthly updates and improvement tips. Account alerts customizable for balance thresholds, transaction amounts, and payment due dates.
+
+ELECTRONIC PAYMENT SERVICES
+Zelle peer-to-peer payment service integrated into online and mobile banking platforms. Send and receive money using email address or mobile phone number. Transaction limits of $2,500 per day and $20,000 per month. Funds typically available within minutes to enrolled recipients.
+
+Automated Clearing House (ACH) services for businesses include direct deposit, vendor payments, and collection services. Same-day ACH processing available for urgent payments with additional fees. Detailed reporting and reconciliation tools available through business banking portal.
+
+Wire transfer services available for domestic and international payments with competitive exchange rates. Cut-off times vary by destination with same-day processing available for domestic wires initiated before 3 PM Eastern Time. International wires processed through SWIFT network with correspondent banking relationships.
+
+DIGITAL SECURITY MEASURES
+End-to-end encryption protects all data transmission between customer devices and bank servers using 256-bit SSL encryption. Regular security updates and patches applied to all systems. Third-party security audits conducted annually with penetration testing and vulnerability assessments.
+
+Device registration required for new devices accessing accounts with verification through existing communication methods. Automatic logout after 15 minutes of inactivity. Session timeout notifications provide opportunity to extend sessions before automatic logout.
+
+Secure messaging system within online banking platform encrypts all communications between customers and bank representatives. Document upload capabilities for secure transmission of sensitive information. Message history maintained for regulatory compliance and customer reference.
+
+=== INTEREST RATES AND FEES ===
+
+DEPOSIT ACCOUNT RATES
+Certificate of Deposit rates vary by term length and deposit amount. Current rates range from 2.5% APY for 6-month terms to 4.25% APY for 60-month terms. Minimum deposit requirements start at $1,000 with higher rates available for deposits over $100,000. Early withdrawal penalties apply based on term length.
+
+Money Market Account rates tiered based on balance levels. Balances under $10,000 earn 1.75% APY, balances $10,000-$49,999 earn 2.25% APY, and balances over $50,000 earn 2.75% APY. Monthly maintenance fee of $10 waived with minimum daily balance of $2,500.
+
+Interest compounding occurs daily and posts monthly for all deposit accounts. Rate changes communicated 30 days in advance for existing accounts. Promotional rates available for new customers with specific terms and conditions. Rate matching available for competitive offers from other financial institutions.
+
+FEE SCHEDULE
+Monthly maintenance fees vary by account type and can be waived through various qualifying activities. Overdraft fees, ATM fees, and wire transfer fees clearly disclosed in account agreements. Fee waivers available for senior citizens, students, and military personnel with proper documentation.
+
+Foreign transaction fees charged at 3% of transaction amount for international purchases and ATM withdrawals. Currency conversion based on wholesale exchange rates plus markup. No foreign transaction fees on select premium credit cards and travel-focused products.
+
+Stop payment fees charged at $30 per item for checks and $15 for ACH transactions. Cashier's check fees of $10 per item. Notary services provided free for banking-related documents and $10 for other documents. Safe deposit box rental fees vary by size and location.
+
+=== CUSTOMER SERVICE AND SUPPORT ===
+
+CONTACT INFORMATION
+Customer service available 24/7 through multiple channels including phone, email, secure messaging, and live chat. Phone support includes specialized departments for credit cards, loans, and business banking. Average wait times under 3 minutes during business hours.
+
+Branch locations offer full-service banking with extended hours including Saturday operations. Appointment scheduling available for complex transactions and consultations. Drive-through services available at most locations with extended hours for convenience.
+
+Online help center provides comprehensive FAQ database, video tutorials, and step-by-step guides for common banking tasks. Search functionality helps customers find relevant information quickly. Regular updates ensure information remains current and accurate.
+
+COMPLAINT RESOLUTION
+Customer complaint process includes multiple escalation levels with target resolution timeframes. Initial response within 24 hours for all complaints. Formal complaint investigation completed within 10 business days with written response provided.
+
+Regulatory complaint procedures follow federal and state banking regulations. Customers may file complaints with appropriate regulatory agencies including FDIC, OCC, and state banking commissions. Bank maintains complaint log for regulatory examination and reporting purposes.
+
+Customer satisfaction surveys conducted regularly with feedback used to improve products and services. Net Promoter Score tracking helps measure customer loyalty and identify improvement opportunities. Service recovery procedures in place for customers experiencing service failures.
+
+=== REGULATORY COMPLIANCE ===
+
+PRIVACY POLICY
+Customer information protected under Gramm-Leach-Bliley Act with annual privacy notices provided to all customers. Information sharing limited to affiliates and service providers with customer consent for marketing purposes. Opt-out procedures available for customers who do not wish to receive marketing communications.
+
+Data retention policies comply with federal and state regulations with specific timeframes for different document types. Customer account records maintained for seven years after account closure. Loan documentation retained for duration of loan plus applicable statute of limitations.
+
+Third-party information sharing agreements include strict confidentiality and data protection requirements. Vendor due diligence processes ensure compliance with privacy and security standards. Regular audits of third-party service providers conducted to verify compliance.
+
+ANTI-MONEY LAUNDERING (AML)
+Bank Secrecy Act compliance includes customer identification programs, suspicious activity reporting, and record keeping requirements. Currency transaction reports filed for cash transactions over $10,000. Suspicious activity reports filed for transactions that appear unusual or potentially illegal.
+
+Customer due diligence procedures enhanced for high-risk customers including politically exposed persons and businesses in high-risk industries. Ongoing monitoring systems flag unusual transaction patterns and account activity. Regular training provided to all employees on AML requirements and red flags.
+
+OFAC screening conducted for all customers and transactions against prohibited persons and countries lists. Automated screening systems check names, addresses, and transaction details. Potential matches investigated and reported to appropriate authorities as required.
+
+FAIR LENDING PRACTICES
+Equal Credit Opportunity Act compliance ensures fair treatment of all loan applicants regardless of race, gender, religion, or other protected characteristics. Lending decisions based solely on creditworthiness and ability to repay. Regular fair lending examinations conducted by regulatory agencies.
+
+Community Reinvestment Act compliance includes investment in low-to-moderate income communities through lending, investment, and service activities. Annual CRA performance evaluations conducted with public ratings available. Community development lending programs support affordable housing and small business development.
+
+Home Mortgage Disclosure Act reporting includes detailed information on all mortgage applications and loan originations. Data used to identify potential discriminatory lending practices. Public disclosure of lending data promotes transparency and accountability.
+
+=== INVESTMENT AND WEALTH MANAGEMENT ===
+
+INVESTMENT PRODUCTS
+Mutual fund platform offers diverse selection of domestic and international equity funds, fixed income funds, and balanced funds. Investment minimums start at $1,000 with automatic investment plans available for $100 monthly minimums. Professional investment advisory services available for portfolios over $100,000.
+
+Brokerage services provide access to stocks, bonds, ETFs, and options trading through online platform. Commission-free stock and ETF trades for accounts with minimum $25,000 balance. Research tools and market analysis available through partnership with leading financial data providers.
+
+Retirement planning services include traditional and Roth IRAs, SEP-IRAs, and 401(k) rollovers. Contribution limits and tax advantages explained during consultation sessions. Required minimum distribution calculations and processing available for retirement account holders.
+
+WEALTH MANAGEMENT SERVICES
+Private banking services available for high-net-worth clients with investable assets over $1 million. Dedicated relationship managers provide personalized service and customized financial solutions. Estate planning and trust services available through partnership with legal professionals.
+
+Financial planning services include comprehensive analysis of financial goals, risk tolerance, and investment timeline. Retirement planning, education funding, and tax optimization strategies developed collaboratively with clients. Regular portfolio reviews and rebalancing ensure alignment with changing objectives.
+
+Insurance products available through licensed insurance agents including life insurance, disability insurance, and annuities. Needs analysis helps determine appropriate coverage levels and product types. Integration with overall financial planning ensures comprehensive risk management.
+
+=== BUSINESS BANKING SERVICES ===
+
+BUSINESS ACCOUNT TYPES
+Commercial checking accounts designed for businesses with monthly transaction volumes under 200 items. Earnings credit applied to average collected balances to offset service fees. Remote deposit capture and ACH origination services available with appropriate agreements.
+
+Business savings accounts offer competitive interest rates with tiered pricing based on balance levels. Sweep services automatically transfer excess funds from checking to savings accounts to maximize earnings. Business money market accounts provide higher yields with limited transaction capabilities.
+
+Merchant services include credit card processing, point-of-sale systems, and e-commerce payment solutions. Competitive processing rates based on transaction volume and business type. Next-day funding available for qualified merchants with established processing history.
+
+BUSINESS LENDING
+Small business loans available through SBA programs and conventional lending products. Working capital lines of credit provide flexible financing for seasonal businesses and inventory purchases. Equipment financing available for machinery, vehicles, and technology purchases.
+
+Commercial real estate loans available for owner-occupied and investment properties. Construction loans provide interim financing during building phase with conversion to permanent financing upon completion. Loan terms up to 25 years with competitive rates and flexible amortization schedules.
+
+Business credit cards offer rewards programs tailored to business spending categories including office supplies, fuel, and telecommunications. Employee cards available with individual spending limits and detailed reporting. Integration with accounting software simplifies expense tracking and categorization.
+
+CASH MANAGEMENT SERVICES
+Automated clearing house (ACH) services streamline payroll processing, vendor payments, and customer collections. Same-day ACH processing available for urgent payments. Detailed reporting and exception processing help manage cash flow effectively.
+
+Wire transfer services include domestic and international capabilities with online initiation and approval workflows. Repetitive wire templates reduce processing time for regular payments. Dual approval requirements enhance security for high-value transactions.
+
+Lockbox services provide centralized collection and processing of customer payments. Remote deposit capture allows businesses to deposit checks from their location without visiting branches. Positive pay services help prevent check fraud through automated matching of issued and presented checks.
+
+=== MORTGAGE AND REAL ESTATE SERVICES ===
+
+MORTGAGE PRODUCTS
+Conventional mortgage loans available with down payments as low as 3% for qualified borrowers. Fixed-rate options from 15 to 30 years with competitive interest rates. Adjustable-rate mortgages available with initial fixed periods of 5, 7, or 10 years.
+
+Government-backed loans include FHA, VA, and USDA programs with specific eligibility requirements and benefits. FHA loans require 3.5% down payment with mortgage insurance premiums. VA loans available for eligible veterans and active-duty military personnel with no down payment requirement.
+
+Jumbo loans available for luxury properties exceeding conforming loan limits. Portfolio lending capabilities allow flexible underwriting for unique situations. Interest-only payment options available for qualified borrowers with strong credit profiles.
+
+REFINANCING OPTIONS
+Rate and term refinancing allows borrowers to obtain better interest rates or modify loan terms. Cash-out refinancing provides access to home equity for debt consolidation, home improvements, or other financial needs. Streamline refinancing programs available for existing customers with simplified documentation requirements.
+
+Home equity loans provide lump-sum financing secured by home equity with fixed interest rates and payments. Credit lines offer revolving access to funds with variable interest rates based on prime rate. Interest may be tax-deductible subject to IRS regulations and limitations.
+
+Mortgage assumption options available for qualified buyers of existing mortgaged properties. Seller financing programs help facilitate sales in challenging market conditions. Bridge loans provide temporary financing for buyers purchasing before selling existing homes.
+
+REAL ESTATE SERVICES
+Real estate agent referral network includes experienced professionals in local markets. Preferred agents offer enhanced services and may provide closing cost credits. Home buying seminars educate first-time buyers on the purchasing process and available programs.
+
+Property appraisal services conducted by licensed appraisers using comparable sales and market analysis. Automated valuation models provide preliminary estimates for refinancing and equity calculations. Review appraisals available for disputed valuations.
+
+Title insurance and closing services provided through affiliated title companies. Comprehensive title searches identify potential issues before closing. Owner's title insurance protects against defects in title not discovered during search process.
+
+=== INSURANCE PRODUCTS ===
+
+LIFE INSURANCE
+Term life insurance provides temporary coverage with level premiums for specified periods. Coverage amounts from $50,000 to $5 million available based on underwriting approval. Convertible term policies allow conversion to permanent coverage without medical examination.
+
+Whole life insurance combines life insurance protection with cash value accumulation. Guaranteed level premiums and death benefits provide predictable coverage. Dividend payments may be used to purchase additional coverage or reduce premiums.
+
+Universal life insurance offers flexible premiums and death benefits with cash value growth potential. Variable universal life allows investment of cash value in mutual fund-like accounts. Guaranteed universal life provides lifetime coverage with minimal cash value accumulation.
+
+PROPERTY AND CASUALTY INSURANCE
+Homeowners insurance protects against property damage, theft, and liability claims. Coverage includes dwelling, personal property, and additional living expenses. Flood insurance available through National Flood Insurance Program for eligible properties.
+
+Auto insurance provides liability, collision, and comprehensive coverage with competitive rates. Multi-policy discounts available for customers with multiple insurance products. Usage-based insurance programs offer potential savings for safe drivers.
+
+Business insurance includes general liability, property, and workers' compensation coverage. Professional liability insurance available for service-based businesses. Business interruption insurance protects against lost income due to covered property damage.
+
+DISABILITY INSURANCE
+Short-term disability insurance replaces portion of income during temporary disability periods. Coverage available for 13, 26, or 52 weeks with benefit amounts up to 60% of income. Elimination periods range from 0 to 14 days.
+
+Long-term disability insurance provides income replacement for extended disability periods. Benefits available to age 65 or for specified benefit periods. Own-occupation coverage protects professionals who cannot perform their specific job duties.
+
+Group disability insurance available through employer-sponsored programs. Portable coverage allows employees to maintain protection when changing jobs. Supplemental coverage available to increase benefit amounts above group plan limits.
+
+=== TRUST AND ESTATE SERVICES ===
+
+TRUST SERVICES
+Revocable living trusts help avoid probate and provide privacy for estate distribution. Irrevocable trusts offer tax advantages and asset protection benefits. Charitable trusts provide income streams while supporting favorite causes.
+
+Corporate trustee services include trust administration, investment management, and distribution oversight. Successor trustee services provide continuity when individual trustees cannot serve. Trust modification services help adapt trusts to changing circumstances.
+
+Estate settlement services assist families with probate administration and asset distribution. Inventory and valuation services help determine estate values. Tax preparation and filing services ensure compliance with estate tax requirements.
+
+ESTATE PLANNING
+Will preparation services help ensure proper distribution of assets according to wishes. Power of attorney documents designate representatives for financial and healthcare decisions. Advanced directive documents communicate healthcare preferences when unable to do so.
+
+Estate tax planning strategies help minimize tax liability for high-net-worth individuals. Generation-skipping transfer tax planning preserves wealth for multiple generations. Charitable giving strategies provide tax benefits while supporting causes.
+
+Business succession planning helps ensure continuity of family businesses. Buy-sell agreements provide mechanisms for ownership transfer. Key person insurance protects businesses against loss of critical employees.
+
+=== FINANCIAL EDUCATION AND RESOURCES ===
+
+FINANCIAL LITERACY PROGRAMS
+Money management seminars cover budgeting, saving, and debt management strategies. Home buying workshops educate potential buyers on the mortgage process and available programs. Retirement planning seminars help individuals prepare for financial independence.
+
+Online financial education portal provides interactive tools and calculators for various financial decisions. Video library covers topics from basic banking to advanced investment strategies. Webinar series features expert speakers on timely financial topics.
+
+Student financial literacy programs teach young adults about banking, credit, and financial responsibility. School partnership programs bring financial education to high school and college students. Scholarship programs support students pursuing financial education degrees.
+
+FINANCIAL CALCULATORS
+Mortgage calculators help determine monthly payments, affordability, and amortization schedules. Loan calculators compare different loan options and payment scenarios. Investment calculators project growth potential and retirement needs.
+
+Budget calculators help track income and expenses while identifying saving opportunities. Debt payoff calculators show strategies for eliminating credit card and loan balances. Emergency fund calculators determine appropriate savings targets.
+
+Tax calculators estimate federal and state tax liability for different scenarios. College savings calculators project education funding needs and savings strategies. Social Security calculators estimate future benefits and claiming strategies.
+
+MARKET INSIGHTS
+Economic research team provides regular commentary on market conditions and economic trends. Interest rate forecasts help customers make informed borrowing and investment decisions. Sector analysis identifies opportunities and risks in various industries.
+
+Investment market updates cover stock market performance, bond yields, and commodity prices. Currency exchange rate information assists international business customers. Real estate market analysis helps buyers and sellers understand local conditions.
+
+Quarterly economic outlook reports provide comprehensive analysis of economic indicators and forecasts. Industry-specific reports focus on sectors important to local business customers. Regulatory update notifications keep customers informed of changes affecting their finances.
+
+=== FREQUENTLY ASKED QUESTIONS ===
+
+ACCOUNT ACCESS AND SECURITY
+Q: How do I reset my online banking password?
+A: Password reset can be completed online using the "Forgot Password" link on the login page. You'll need to provide your username and answer security questions or receive a verification code via email or SMS. For additional security, you may need to contact customer service for verification.
+
+Q: What should I do if I suspect fraudulent activity on my account?
+A: Contact customer service immediately at 1-800-BANK-HELP to report suspicious activity. We'll place a hold on your account to prevent further unauthorized transactions and issue new cards if necessary. Monitor your account regularly and report any discrepancies within 60 days of your statement date.
+
+Q: How can I increase my ATM withdrawal limit?
+A: ATM limits can be temporarily increased by contacting customer service with advance notice. Permanent limit increases may be available based on account history and relationship with the bank. Some increases may require additional verification or account upgrades.
+
+LOANS AND CREDIT
+Q: What credit score do I need to qualify for a mortgage?
+A: Minimum credit score requirements vary by loan program. Conventional loans typically require scores of 620 or higher, while FHA loans may accept scores as low as 580. VA and USDA loans may have different requirements. Other factors including income and debt-to-income ratio also affect approval.
+
+Q: How long does the loan application process take?
+A: Personal loan applications can be approved within 24 hours for existing customers with all required documentation. Mortgage applications typically take 30-45 days from application to closing. Business loan timelines vary based on loan type and complexity of the request.
+
+Q: Can I pay off my loan early without penalties?
+A: Most personal loans and mortgages have no prepayment penalties. Some promotional loan products may have early payment restrictions during introductory periods. Check your loan agreement or contact customer service to confirm prepayment terms for your specific loan.
+
+DEPOSITS AND WITHDRAWALS
+Q: When will my deposited funds be available?
+A: Cash deposits are available immediately. Check deposits under $200 are available the next business day, with remaining amounts available within two business days. Out-of-state checks may have longer hold periods. Mobile deposits follow the same availability schedule as in-person deposits.
+
+Q: Are there limits on how much I can deposit?
+A: There are no limits on deposit amounts, but cash deposits over $10,000 require currency transaction reporting. Mobile deposits may have daily limits based on account type and history. Large deposits may be subject to extended hold periods for verification.
+
+Q: What happens if I overdraw my account?
+A: Overdraft fees may apply if transactions exceed available account balance. If you have overdraft protection, funds will be transferred from a linked savings account for a transfer fee. Items may be returned unpaid if insufficient funds are available, resulting in NSF fees.
+
+DIGITAL BANKING
+Q: Is mobile banking secure?
+A: Mobile banking uses bank-level encryption and security measures to protect your information. Biometric authentication adds additional security layers. Always use secure networks and log out completely when finished. Never share login credentials or conduct banking on public computers.
+
+Q: Can I deposit checks using my phone?
+A: Mobile deposit is available through our mobile app for eligible accounts. Simply endorse the check, take photos of both sides, and submit through the app. Deposits are subject to daily limits and verification requirements. Original checks should be retained for several days before destroying.
+
+Q: How do I set up account alerts?
+A: Account alerts can be configured through online banking or mobile app settings. Choose from balance alerts, transaction alerts, and payment due date reminders. Alerts can be delivered via email, SMS, or push notifications. Update contact information regularly to ensure alerts are received.
+
+RATES AND FEES
+Q: How often do interest rates change?
+A: Savings account rates may change at any time based on market conditions. Certificate of deposit rates are fixed for the term of the deposit. Loan rates are typically locked for a specific period during the application process. Rate changes are communicated according to account agreement terms.
+
+Q: What fees can I expect on my account?
+A: Common fees include monthly maintenance fees, overdraft fees, ATM fees, and wire transfer fees. Many fees can be waived through qualifying activities like maintaining minimum balances or using direct deposit. A complete fee schedule is available in your account agreement and on our website.
+
+Q: How can I avoid monthly maintenance fees?
+A: Maintenance fees can typically be waived by maintaining minimum daily balances, using direct deposit, or maintaining combined balances across multiple accounts. Specific requirements vary by account type. Contact customer service to review fee waiver options for your accounts.
+
+CUSTOMER SERVICE
+Q: What are your customer service hours?
+A: Customer service is available 24/7 by phone for account access issues and fraud reporting. General customer service is available Monday through Friday 7 AM to 10 PM, weekends 8 AM to 6 PM. Specialized departments may have different hours. Live chat is available during extended hours through online banking.
+
+Q: How can I file a complaint about service?
+A: Complaints can be filed through customer service, online banking secure messaging, or by visiting any branch location. We'll investigate all complaints and provide written responses within 10 business days. If unsatisfied with our response, you may contact regulatory agencies or seek arbitration as outlined in account agreements.
+
+Q: Can I speak to someone in person?
+A: Yes, all branch locations offer in-person customer service during business hours. Appointments can be scheduled for complex matters or consultations. Some locations offer extended hours and Saturday service. Video banking may be available for customers unable to visit branch locations.
+
+This dataset contains approximately 2000 lines of realistic banking content suitable for embedding in a vector database for RAG applications. The content covers comprehensive banking topics including account types, policies, procedures, services, and customer support information that would typically be found in a banking knowledge base.
